@@ -1,7 +1,4 @@
-import os
 import time
-from urllib.request import urlopen
-
 import pandas as pd
 import networkx
 
